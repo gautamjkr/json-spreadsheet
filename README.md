@@ -1,6 +1,6 @@
 # JSON Spreadsheet Application
 
-A lightweight and interactive spreadsheet application built with React and Ant Design. This app supports dynamic rows and columns, styling, formulas, and import/export features. Access the live version here:[ [https://json-spreadsheet.example.com](https://json-spreadsheet.example.com)](https://jsonspreadsheet.netlify.app/).
+A lightweight and interactive spreadsheet application built with React and Ant Design. This app supports dynamic rows and columns, styling, formulas, and import/export features. Access the live version here: [https://jsonspreadsheet.netlify.com](https://jsonspreadsheet.netlify.com).
 
 ---
 
