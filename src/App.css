@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+}
+
+th,
+td,
+tr {
+  padding: 8px 16px;
+  min-width: 150px !important;
+  text-align: left;
+  border: 1px solid #ddd;
+  white-space: nowrap;
+}
+
+th:first-child {
+  min-width: 20px !important;
+}
+
+a {
+  padding: 5px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
